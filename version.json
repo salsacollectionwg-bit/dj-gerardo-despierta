@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Widget nuevo con el clima, consejo para rodar en bici, próxima alarma y festivos."
+  "notes": "Ahora eliges widget Digital o Análogo; los dos muestran ciudad, clima, próxima alarma y festivo."
 }

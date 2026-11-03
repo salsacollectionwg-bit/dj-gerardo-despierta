@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Ahora eliges widget Digital o Análogo; los dos muestran ciudad, clima, próxima alarma y festivo."
+  "notes": "Widgets transparentes sin recuadro, clima de tu ubicación exacta y letras que cambian solas según tu fondo de pantalla."
 }

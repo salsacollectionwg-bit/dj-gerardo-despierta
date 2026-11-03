@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Widgets transparentes sin recuadro, clima de tu ubicación exacta y letras que cambian solas según tu fondo de pantalla."
+  "notes": "El reloj del widget ya no desaparece al cambiar de tema o de fondo: letras y manecillas con contorno que se ve sobre cualquier fondo."
 }

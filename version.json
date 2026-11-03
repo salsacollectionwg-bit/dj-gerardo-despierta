@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Nueva pantalla principal propia: reloj centrado sobre tu fondo, clima, alarma, festivo, Google, favoritos y todas las apps deslizando hacia arriba. Ningún tema de Motorola la cambia."
+  "notes": "Tema Salsa para Oídos Abiertos: colores de la marca, letra estilo Verdana, Truecaller, Play Store, Cámara y carpeta Google en la pantalla principal."
 }

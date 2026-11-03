@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Tema Salsa para Oídos Abiertos: colores de la marca, letra estilo Verdana, Truecaller, Play Store, Cámara y carpeta Google en la pantalla principal."
+  "notes": "Reloj más pequeño con tamaño ajustable (pequeño, mediano, grande) y estado de la batería: porcentaje, cargando y tiempo para llenarse."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Clima con consejo para rodar en bici, actualización automática y festivos que se corrigen en línea."
+  "notes": "Widget nuevo con el clima, consejo para rodar en bici, próxima alarma y festivos."
 }

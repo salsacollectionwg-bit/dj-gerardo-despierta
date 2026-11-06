@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
+  "versionCode": 14,
+  "versionName": "2.3",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Fondo propio Salsa para Oídos Abiertos (ondas, congas, ciudad y banderas de Cuba y Puerto Rico) y reloj sobre panel oscuro."
+  "notes": "Ahorro de batería: el reloj solo se anima cuando lo ves, ubicación sin GPS, clima cada hora, sin doble fondo detrás del tema y widget sin segundero."
 }

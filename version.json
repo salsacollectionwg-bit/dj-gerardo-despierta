@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apk": "https://raw.githubusercontent.com/salsacollectionwg-bit/dj-gerardo-despierta/main/apk/DJ-Gerardo-Despierta.apk",
-  "notes": "Ahorro de batería: ya no recarga los íconos de todas las apps en segundo plano, no reintenta clima ni ubicación sin parar, y trae Diagnóstico de batería en Ajustes."
+  "notes": "Ahorro de batería: los colores del fondo solo se recalculan cuando de verdad cambias el fondo de pantalla."
 }
